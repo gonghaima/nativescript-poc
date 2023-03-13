@@ -1,5 +1,3 @@
-// src/app/features/home/home.module.ts
-
 import { NgModule, NO_ERRORS_SCHEMA } from "@angular/core";
 import { NativeScriptCommonModule } from "@nativescript/angular";
 import { HomeRoutingModule } from "./home-routing.module";
