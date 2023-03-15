@@ -1,7 +1,8 @@
 import { Component } from "@angular/core";
+import { FlickService } from "../../core/services/flick.service";
+
 import { ItemEventData } from "@nativescript/core";
 import { RouterExtensions } from "@nativescript/angular";
-import { FlickService } from "../../core/services/flick.service";
 
 @Component({
   moduleId: module.id,
